@@ -1,11 +1,11 @@
-<div align="center"> <a href="https://github.com/kailong321200875/vue-element-plus-admin"> <img width="100" src="./public/logo.png"> </a> <br> <br>
+<div align="center"> <a href="https://github.com/A-Moualla/ammarofAdmin"> <img width="100" src="./public/logo.png"> </a> <br> <br>
 
 [![license](https://img.shields.io/github/license/kailong321200875/vue-element-plus-admin.svg)](LICENSE)
 
-<h1>vue-element-plus-admin</h1>
+<h1>Ammarof Admin</h1>
 </div>
 
-**English** | [中文](./README.zh-CN.md)
+**English**
 
 ## Introduction
 
@@ -28,9 +28,6 @@ If you need a basic template, please switch to the `tempalte` branch. `Tempalte`
 
 ## Preview
 
-- [vue-element-plus-admin](https://element-plus-admin.cn/) - Full version of the github site
-- [vue-element-plus-admin](https://kailong110120130.gitee.io/vue-element-plus-admin) - Full version of the gitee site
-
 account: **admin/admin test/test**
 
 `admin` account is used to simulate the control permission of the server, and render whatever the server returns
@@ -40,8 +37,6 @@ account: **admin/admin test/test**
 ## Documentation
 
 [Document Github](https://element-plus-admin-doc.cn/)
-
-[Document Gitee](https://kailong110120130.gitee.io/vue-element-plus-admin-doc)
 
 ## Preparation
 
@@ -59,13 +54,13 @@ account: **admin/admin test/test**
 - Get the project code
 
 ```bash
-git clone https://github.com/kailong321200875/vue-element-plus-admin.git
+git clone https://github.com/A-Moualla/ammarofAdmin.git
 ```
 
 - Installation dependencies
 
 ```bash
-cd vue-element-plus-admin
+cd ammarofAdmin
 
 pnpm install
 
@@ -83,13 +78,10 @@ pnpm run dev
 pnpm run build:pro
 ```
 
-## Change Log
-
-[CHANGELOG](./CHANGELOG.md)
 
 ## How to contribute
 
-You can [Raise an issue](https://github.com/kailong321200875/vue-element-plus-admin/issues/new) Or submit a Pull Request.
+You can [Raise an issue](https://github.com/A-Moualla/ammarofAdmin/issues/new) Or submit a Pull Request.
 
 **Pull Request:**
 
